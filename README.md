@@ -54,6 +54,6 @@ Example:
 
 Download or clone the repository:
 
-git clone https://github.com/username/task-4-responsive.git
+git clone https://github.com/PREEETHAMK/task-4-mediaqueries.git
 Open index.html in any web browser.
 
